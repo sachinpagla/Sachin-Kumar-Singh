@@ -37,8 +37,8 @@
     <p><em>“My mission is to spread the light of leadership across every city and village in India, and empower thousands of youth through Digital Network Marketing.”</em></p>
   </section>  <section>
     <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:sachinleader@gmail.com">sachinleader@gmail.com</a></p>
-    <p>WhatsApp: <a href="https://wa.me/919123456789">+91-9123456789</a></p>
+    <p>Email: <a href="mailto:sachinkumarsingh365@gmail.com">sachinleader@gmail.com</a></p>
+    <p>WhatsApp: <a href="https://wa.me/9831453671">+91-9123456789</a></p>
     <p>YouTube: <a href="https://youtube.com/@SachinTechnicalSolutions" target="_blank">Sachin Technical Solutions</a></p>
   </section>  <footer>
     <p>&copy; 2025 Sachin Kumar Singh. All rights reserved.</p>
